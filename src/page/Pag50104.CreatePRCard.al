@@ -4,6 +4,7 @@ page 50104 CreatePRCard
     PageType = Card;
     UsageCategory = Documents;
     SourceTable = PRTable;
+    
 
     layout
     {

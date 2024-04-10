@@ -86,7 +86,7 @@ table 50101 PRSubformTable
 
     keys
     {
-        key(Pk; DocumentNo, LineNo, Type)
+        key(Pk; DocumentNo, LineNo)
         {
             Clustered = true;
         }
